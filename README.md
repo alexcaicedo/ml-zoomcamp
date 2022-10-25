@@ -1,2 +1,2 @@
 # ml-zoomcamp
-This repository contains the notes and exercises from the course ml-zoomcamp
+This repository is a collection of notes and exercises from the free Machine Learning course `ml-zoomcamp` offered by Alexey Grogorev.
